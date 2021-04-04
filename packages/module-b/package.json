@@ -1,5 +1,5 @@
 {
-  "name": "@yj/module-b",
+  "name": "module-b-yj",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "b2e9b2141f5ad4a7f5346c286c40dfd76fd97c3d"
 }
